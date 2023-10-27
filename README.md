@@ -1,6 +1,8 @@
 # slum-orei
 Semantic segmentation of slum areas from high-resolution RGB images using three different architectures: [U-Net](https://arxiv.org/abs/1505.04597), [FPN](https://arxiv.org/abs/1612.03144), and [Linknet](https://arxiv.org/abs/1707.03718), implemented in the [segmentation_models](https://github.com/qubvel/segmentation_models). Slum prediction implementation using [Smoothly-Blend-Image-Patches](https://github.com/Vooban/Smoothly-Blend-Image-Patches).
 
+This repo provides RGB image and annotation sample for Jakarta. Users need to modify the directory path accordingly.
+
 ## Requirements
 - [segmentation_models](https://github.com/qubvel/segmentation_models)
 - [keras](https://keras.io/) == 2.10 or [tensorflow](https://www.tensorflow.org/) == 2.10
