@@ -51,4 +51,16 @@ python train_val_slum.py
 python predict_slum.py
 ```
 
-
+## Citing
+```
+@article{Lumban-Gaol2023,
+    author = {Lumban-Gaol, Y. A. and Rizaldy, A. and Murtiyoso, A.},
+    title = {COMPARISON OF DEEP LEARNING ARCHITECTURES FOR THE SEMANTIC SEGMENTATION OF SLUM AREAS FROM SATELLITE IMAGES},
+    journal = {The International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences},
+    volume = {XLVIII-1/W2-2023},
+    year = {2023},
+    pages = {1439--1444},
+    url = {https://isprs-archives.copernicus.org/articles/XLVIII-1-W2-2023/1439/2023/},
+    doi = {10.5194/isprs-archives-XLVIII-1-W2-2023-1439-2023}
+    }
+```
